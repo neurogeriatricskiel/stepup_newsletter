@@ -1,0 +1,16 @@
+---
+title: StepUp November Newsletter
+output:
+    pdf_document:
+        template: newsletter
+        toc: true
+        toc_depth: 2
+        number_sections: true
+        fig_caption: true
+        fig_height: 4
+        fig_width: 6
+        columns: 2
+        keep_tex: true
+---
+
+# StepUp November Newsletter
