@@ -1,16 +1,38 @@
 ---
 title: StepUp November Newsletter
+date: 'November 2023'
 output:
     pdf_document:
-        template: newsletter
-        toc: true
-        toc_depth: 2
-        number_sections: true
-        fig_caption: true
-        fig_height: 4
-        fig_width: 6
+        fig_height: 3
+        fig_width: 4
         columns: 2
         keep_tex: true
 ---
 
-# StepUp November Newsletter
+
+Hallo, wir freuen uns, Ihnen den ersten Newsletter vom StepuP Projekt präsentieren zu dürfen. In diesem Newsletter möchten wir das Projekt vorstellen und über den aktuellen Stand des Projekts informieren, um einen Einblick in unsere Arbeit zu geben. Wir wünschen viel Spaß beim Lesen!
+
+## Das Projekt
+Das StepuP Projekt zielt darauf ab, neuronale und biomechanische Mechanismen einer Trainingsintervention bei Parkinson besser zu verstehen. Personen mit Parkinson berichten häufig Gangunsicherheiten und Stürze, welche zu Einschränkungen im Alltag führen können. In einer Voruntersuchung haben wir knapp 300 australische Parkinsonpatient:innen gefragt welche Symptome die Erkrankung mit sich bringt und welche von diesen Symptomen am wenigsten von klinischer Behandlung profitieren werden. Dabei wurden Gangunsicherheiten und Stürze mit über 90% am häufigsten genannt. Das hängt damit zusammen, dass viele Aspekte der Krankheit bereits gut erforscht sind, jedoch die Ursachen für Gangunsicherheiten und Stürze noch nicht vollständig verstanden sind. Glücklicherweise hat sich in einer Reihe von Studien gezeigt, dass Laufbandtraining einen positiven Effekt auf das Gehen haben kann. Warum das Laufbandtraining einen positiven Effekt hat, ist noch unklar. Das StepuP Projekt zielt darauf ab, das Zusammenspiel von Gehirn und Muskeln besser zu verstehen, um Potential von Laufbandtraining bei Parkinson zu verbessern. 
+
+## Hintergrund (Gehen bei Parkinson)
+Bei Menschen mit der Parkinson-Krankheit funktioniert das System, welches die Fußstellung beim Gehen steuert, nicht mehr so gut. Wir gehen davon aus, dass die große Mehrzahl der Stürze während des Gehens auf „Denkfehler“ zurückzuführen ist. Unter Denkfehler verstehen wir in letzter Konsequenz eine fehlerhafte Gehirn-Muskelinteraktion. Das Gehirn gibt also den etwa 600 Skelettmuskeln, die wir besitzen, ungenaue Anweisungen, sodass deren Kontraktion entweder zu kurz oder zu lang, zu schwach oder zu stark ist, und das Zusammenspiel zwischen verschiedenen Muskeln gestört ist. Das führt dazu, dass, während des Gehens, Teile von unserem Körper, z.B. die Füße und die Hüfte nicht ganz genau zum richtigen Zeitpunkt an der Position sind wo wir sie eigentlich für einen erfolgreichen Schritt brauchen.
+
+![](pics/foot_placement_model.png)
+
+In dem Grafik sieht man den Köperschwerpunkt (schwarz) und die Fußposition (rot und blau). Aus vorherigen Studien ist bekannt, dass der Fuß bei Parksinsonpatient:innen während des Gehens nicht optimal plaziert wird um den Körperschwerpunkt zu stabilisieren. Das führt zu einer erhöhten Sturzgefahr.
+
+## Aktueller Stand
+Das Projekt gewann eine Ausschreibung in Höhe von 1.6 Mio € von der EU um die Mechanismen von Laufbandtraining bei Parkinson zu untersuchen. Es läuft seit Mai 2023 und wird bis April 2026 gefördert. In dem Projekt arbeiten 6 Partner aus 4 Ländern zusammen. Die Partner sind die Universität Kiel (Deutschland), die Universität von Sydney (Australien), die Universität Tel Aviv (Israel), die Universität von Amsterdam (Niederlande), die Universität Zürich (Schweiz) und die Universität Bologna (Italien). Im September haben wir unseren Studieplan auf einer Konferenz in Belgrad, Serbien erstmals einem breiten wissenschaftlichen Publikum vorgestellt. Die Präsentation wurde sehr gut aufgenommen und wir haben viele positive Rückmeldungen erhalten.
+
+![](pics/belgrade.jpg)
+
+## Ausblick
+Bis Ende des Jahren werden wir finale Vorbereitungen für erste Probemessungen treffen, welche im Januar starten sollen. Das komplexe Zusammenspiel von Gehirn, Muskel und Bewegung soll bestmöglich in unserem Labor erfasst werden. 
+
+![](pics/lab.jpg){width=2cm, fig-align="center"}
+
+Die Probemessungen werden uns helfen jeden gewonnen Datensatz optimal zu nutzen. Im März werden wir dann mit der eigentlichen Datenerhebung beginnen und planen ca. 1,5 Jahre ein bis alle benötigten Daten erhoben sind. 
+
+Falls Sie Interesse an einer Teilnahme haben, können Sie sich gerne bei Julius Welzel (j.welzel@neurologie.unie-kiel.de) melden. Wir würden uns freuen, wenn Sie sich dazu entscheiden, uns bei unserer Forschung zu unterstützen. 
+Ihre Teilnahme kann dazu beitragen, unser Verständnis und die Versorgung in der Medizin zu verbessern. Einen typischen Ablauf der Studie für einen Teilnehmer werde wir im kommenden Newsletter im Dezember vorstellen.
