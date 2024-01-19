@@ -37,7 +37,7 @@ In dieser Kategorie wollen wir ihnen in jedem Newsletter Mitarbeitende vorstelle
 
 ::: columns
 :::: column
-![Dr. Moira van Leeuwen](pics/Moira_vanLeeuwen.jpg){fig-align="center"}
+![Dr. Moira van Leeuwen](pics/Moira_vanLeeuwen.jpg){fig-align="center" width="30%"}
 :::
 
 :::: column
