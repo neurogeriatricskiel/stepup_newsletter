@@ -8,9 +8,9 @@ Hallo, wir freuen uns, Ihnen den zweiten Newsletter vom StepuP Projekt präsenti
 ## Aktueller Stand
 Wie bereits im letzten Newsletter berichtet haben die technischen Vorbereitungen für die Messungen begonnen. Wir haben bereits alle Geräte erhalten und sind dabei diese vollständing für die Datenerhebung vorzubereiten. Bis zum jetztigen Zeitpunkt sind wir sehr zufrieden mit der Qualität der Daten. 
 
-Unsere Koleg:innen aus Amsterdam testen bereit fleißig und mit Freude die Software um alle Geräte zeitgleich in Betrieb zu nehmen. Wir sind sehr zuversichtlich, dass wir in den nächsten Wochen mit den ersten Messungen beginnen können.
+Unsere Kolleg:innen aus Amsterdam testen bereit fleißig und mit Freude die Software um alle Geräte zeitgleich in Betrieb zu nehmen. Wir sind sehr zuversichtlich, dass wir in den nächsten Wochen mit den ersten Messungen beginnen können.
 
-{{< video vids\test_amsterdam.mp4 >}}
+{{< video test_amsterdam.mp4 >}}
 
 ## Typischer Studienablauf für Patient:innen
 ![Hier sehen Sie den typischen Ablauf der Studie für Teilnehmer:innen](pics/ablauf.png){fig-align="center"}
@@ -37,10 +37,10 @@ In dieser Kategorie wollen wir ihnen in jedem Newsletter Mitarbeitende vorstelle
 
 ::: columns
 :::: column
-![Dr. Moira van Leeuwen](pics/markus.jpg){fig-align="center"}
+![Dr. Moira van Leeuwen](pics/Moira_vanLeeuwen.jpg.jpg){fig-align="center"}
 :::
 
 :::: column
-Diesen Monat stellen wir Ihnen Dr. Markus Hobert vor. Dr. Markus Hobert arbeitet als Facharzt in der neurologischen Abteilung. Er verfügt über langjährige Erfahrung in der neurogeriatrischen Forschung, insbesondere auf dem Gebiet der motorisch-kognitiven Interaktion, der neurodegenerativen Erkrankungen und der Tiefenhirnstimulation. Er wird die Organisation der Studie begleiten und ist einer der ärztlichen Ansprechpartner:innen für das Projekt. Wir schätzen ihn als einen sehr engagierten Mitarbeiter und wir freuen uns sehr, dass er in Kielmit an Bord ist.
+Diesen Monat stellen wir Ihnen Dr. Moira van Leeuwen vorstellen. Sie arbeitet als Wissenschaftlerin Universität in Amsterdam. Sie ist für die Koordination des Projekts zuständig und wird die Datenanalyse gemeinsam mit Mitarbeiter:innen aus Kiel durchführen. In Fachkreisen ist sie für ihre Expertise im Bereich Gangstabilität und Gangkontrolle bekannt.
 :::
 :::
