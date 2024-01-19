@@ -11,10 +11,10 @@ website:
     background: primary
     pinned: true
     left:
+      - text: Aktueller Newsletter (Januar 2024)
+        href: january24.qmd
       - text: Über StepuP
         href: about.qmd
-      - text: Aktueller Newsletter
-        href: january24.qmd
   
   sidebar: 
     sytle: docked

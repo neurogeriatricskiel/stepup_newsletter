@@ -8,37 +8,26 @@ Hallo, wir freuen uns, Ihnen den zweiten Newsletter vom StepuP Projekt präsenti
 ## Aktueller Stand
 Wie bereits im letzten Newsletter berichtet haben die technischen Vorbereitungen für die Messungen begonnen. Wir haben bereits alle Geräte erhalten und sind dabei diese vollständing für die Datenerhebung vorzubereiten. Bis zum jetztigen Zeitpunkt sind wir sehr zufrieden mit der Qualität der Daten. 
 
-![Hier sehen Sie den wissenschafltichen Mitarbeiter Julius Welzel bei der Präsentation des Projekts in Belgrad. Julius Welzel wird zusammen mit Prof. Maetzler das Projekt in Kiel zentral betreuen.](pics/belgrade.jpg)
+Unsere Koleg:innen aus Amsterdam testen bereit fleißig und mit Freude die Software um alle Geräte zeitgleich in Betrieb zu nehmen. Wir sind sehr zuversichtlich, dass wir in den nächsten Wochen mit den ersten Messungen beginnen können.
+
+{{< video vids\test_amsterdam.mp4 >}}
 
 ## Typischer Studienablauf für Patient:innen
-```mermaid	
-timeline
-        title Schematischer Studienablauf
-            section Voruntersuchung (1-2 Wochen vor Beginn des Trainings)
-            Screening : Die Einschlusskriterien werden überprüft und die Studie wird erklärt.
-            Häusliches Assessment : Mittels Fragebögen und einem 7-Tage Aktivitätsmonitor wird der aktuelle Gesundheitszustand erfasst.
-            Funktionelles Assessment : Im Bewegunglabor des UKSH Kiel wird die Motorik, die Hirnfunktion und die Muskelaktivität während des Gehens erfasst.
-        section Training (12 Einheiten in 2-6 Wochen)
-            Trainingseinheit : Gehen auf dem Laufband wird trainiert. Die Geschwindigkeit und Steigung wird individuell angepasst.
-        section Nachuntersuchung (1-2 Wochen nach Ende des Trainings)
-            Funktionelles Assessment : Im Bewegunglabor des UKSH Kiel wird die Motorik, die Hirnfunktion und die Muskelaktivität während des Gehens erfasst.
-            Häusliches Assessment : Mittels Fragebögen und einem 7-Tage Aktivitätsmonitor wird der aktuelle Gesundheitszustand erfasst.
-        section Follow-up (ca. 3 Monate nach Ende des Trainings)
-            Funktionelles Assessment : Im Bewegunglabor des UKSH Kiel wird die Motorik, die Hirnfunktion und die Muskelaktivität während des Gehens erfasst.
-            Häusliches Assessment : Mittels Fragebögen und einem 7-Tage Aktivitätsmonitor wird der aktuelle Gesundheitszustand erfasst.
-
-```
+![Hier sehen Sie den typischen Ablauf der Studie für Teilnehmer:innen](pics/ablauf.png){fig-align="center"}
 Die einzelnen Schritte des Studienablaufs werden in den folgenden Abschnitten genauer erläutert.
 
 **Häusliches Assessment:**
+
 Für das häusliche Assessment werden die Studienteilnehmer*innen zuhause mit tragbaren Sensoren versorgt. Diese nehmen ununterbrochen Bewegungen wahr und zeichnen diese auf. Die kleinen Messgeräte werden mit medizinischem Tape am Rücken oder Arm der Teilnehmer*innen befestigt, sodass sie im alltäglichen Leben keinen Störfaktor darstellen sollten. Diese werden für mindestens 7 Tage getragen. Während dieser Zeit führen die Proband*innen eigenständig Tagebuch, über die tägliche Bewegung und Erschöpfung, in einer dafür spezialisierten App auf dem Smartphone.
 
 **Funktionelles Assessment:**
+
 Das funktionelle Assessment findet im Motoriklabor des UKSH Kiel statt. Dort durchlaufen die Teilnehmer*innen verschiedene Tests bezüglich der Mobilität. Dabei werden das Gangbild, das Gleichgewicht, die Ausprägung der Parkinson-Symptomatik und das Sturzrisiko betrachtet. Dies wird in Form von einfachen Bewegungsabläufen unter Zeitmessung, körperlicher Untersuchung durch die Testleitung und Fragebögen ermittelt. 
 Zusätzlich wird die Gedächtnisleitung und die Lebensqualität der Proband*innen untersucht. Dafür werden Gedächtnisaufgaben durchgeführt und Interviews anhand von Fragebögen über die aktuelle körperliche und psychische Gesundheit geführt.
 Der zweite Teil besteht aus einer Gangtestung auf dem Laufband, während dem über zuvor angelegten Sensoren verschiedene Parameter gemessen werden können. Die Bewegung des Körpers wird dabei mit aufgeklebten Markern über ein Kamerasystem millimetergenau aufgezeichnet. Außerdem wird die Aktivität der einzelnen Gehirnstrukturen mittels eines Forschungs-EEGs dargestellt. Zusätzlich werden an den Beinen kleine Sensoren aufgeklebt, durch die die elektrische Aktivität der Muskeln gemessen und aufgezeichnet werden kann.
 
 **Laufbandtraining:**
+
 Das Laufbandtraining findet im Motoriklabor des UKSH Kiel satt. Dieses wird in 12 Einheiten aufgeteilt, mit jeweils einer Dauer von 30 Minuten. Jede Einheit hat ein festgelegtes Ablaufschemata mit individualisierten Geschwindigkeiten und Pausephasen.
 Teilnehmer*innen werden während des Trainings durch einen Gurt gesichert und von Physiotherapeut*innen betreut. Sie werden durch die Intervention keinem erhöhten Sturz- oder Verletzungsrisiko ausgesetzt.
 
