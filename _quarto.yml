@@ -4,9 +4,6 @@ project:
 website:
   title: "StepuP Newsletter"
   # cookie-consent: true
-  search: 
-    location: navbar
-    type: textbox
   navbar:
     background: primary
     pinned: true
