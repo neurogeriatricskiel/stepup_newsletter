@@ -1,9 +1,5 @@
 ---
 title: StepUp November Newsletter
-
-format: 
-    html:
-        mainfont: "Gill Sans, sans-serif"
 ---
 
 
