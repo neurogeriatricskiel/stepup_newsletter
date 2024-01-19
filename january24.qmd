@@ -10,7 +10,7 @@ Wie bereits im letzten Newsletter berichtet haben die technischen Vorbereitungen
 
 Unsere Kolleg:innen aus Amsterdam testen bereit fleißig und mit Freude die Software um alle Geräte zeitgleich in Betrieb zu nehmen. Wir sind sehr zuversichtlich, dass wir in den nächsten Wochen mit den ersten Messungen beginnen können.
 
-{{< video test_amsterdam.mp4 >}}
+![](pics/test_amsterdam.gif){fig-align="center"}
 
 ## Typischer Studienablauf für Patient:innen
 ![Hier sehen Sie den typischen Ablauf der Studie für Teilnehmer:innen](pics/ablauf.png){fig-align="center"}
@@ -37,7 +37,7 @@ In dieser Kategorie wollen wir ihnen in jedem Newsletter Mitarbeitende vorstelle
 
 ::: columns
 :::: column
-![Dr. Moira van Leeuwen](pics/Moira_vanLeeuwen.jpg.jpg){fig-align="center"}
+![Dr. Moira van Leeuwen](pics/Moira_vanLeeuwen.jpg){fig-align="center"}
 :::
 
 :::: column
