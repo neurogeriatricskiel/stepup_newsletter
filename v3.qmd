@@ -1,0 +1,30 @@
+---
+title: StepUp Newsletter Vol. 2
+---
+
+
+Hallo, wir freuen uns, Ihnen den dritten Newsletter vom StepuP Projekt präsentieren zu dürfen. In diesem Newsletter möchten wir das Projekt vorstellen und über den aktuellen Stand des Projekts informieren, um einen Einblick in unsere Arbeit zu geben. Wir wünschen viel Spaß beim Lesen!
+
+## Aktueller Stand
+Mittlerweile sind die Vorbereitungen bei uns im Standort Kiel in der Arbeitsgruppe von Walter Maetzler für das StepuP Projekt fast abgeschlossen. Julius Welzel betreut das aktuelle Studien-Team, bestehend aus drei Doktorandinnen und einer Studentin der Psychologie. Wir haben die letzten Wochen genutzt, um Probemessungen durchzuführen und uns intensiv auf die ersten Testungen vorzubereiten. Besonders geübt haben wir das Durchführen der klinischen Tests, das Anlegen der EEG-Kappe und der Bewegungs-Sensoren sowie das Zusammenspiel aller technischen Geräte. Auch mit dem Laufband haben wir uns vertraut gemacht, damit das Trainingsprogramm gut funktionieren kann. Bisher sind wir mit der Qualität der Testungen und der Daten zufrieden. Somit planen wir, Ende Mai mit der ersten Datenerhebung zu starten. Ab Juni können dann auch die ersten Trainingseinheiten auf dem Laufband beginnen. Das Protokoll fürs Laufbandtraining wurde noch einmal überarbeitet und geht somit nun individueller auf den Trainingsfortschritt der einzelnen Teilnehmer:innen ein.
+
+## Das Projekt
+In dieser Studie werden wir die Auswirkungen von Laufbandtraining über 12 Trainingseinheiten bei Parkinson Patient:innen untersuchen und dabei Messungen durchführen, die uns helfen zu verstehen, wie sich das Training auf das Gehverhalten auswirkt. Grund für die Studie sind die Gangunsicherheiten und Stürze, die trotz guter Medikamentenwirkung häufig auftreten. Es ist gut belegt, dass Laufbandtraining Vorteile bezüglich des Gangbildes und der Verringerung von Stürzen bringt. Wir erwarten, dass sich durch das Training die Ganggeschwindigkeit, Schrittlänge und Schrittvariabilität verbessern werden. Der geplante Studienablauf ist auf dem nachfolgenden Schema dargestellt.
+
+![Ablauf](pics/ablauf_2.png)
+
+## Ausblick
+Wir sind davon überzeugt, dass die Studie nicht nur wertvolle Erkenntnisse bringen wird, sondern auch die Teilnehmer:innen von dem Laufbandtraining profitieren werden. In Kiel wollen wir um die 40 Personen mit Parkinson entsprechend untersuchen und trainieren. Wenn Sie teilnehmen möchten oder weitere Fragen haben, melden Sie sich gerne bei Julius Welzel (j.welzel@neurologie.uni-kiel.de). Ihre Studienteilnahme kann dazu beitragen, neue Erkenntnisse bei der nicht-medikamentöse Behandlung von Parkinson zu erhalten, um diese dann in die Praxis zu übertragen und Therapien individueller zu gestalten. Leiten Sie diesen Newsletter auch gerne an potentiell interessierte Personen weiter. Wir bedanken uns dafür schon im Voraus und wir würden uns freuen, Sie in unserer Studie begrüßen zu dürfen!
+
+## Mitarbeiter:in des Monats
+In dieser Kategorie wollen wir Ihnen in jedem Newsletter Mitarbeitende vorstellen, die eine zentrale Rolle im StepuP Projekt einnehmen werden. 
+
+::: columns
+:::: column
+![Team](pics/team.jpg.jpg){fig-align="center" width="70%"}
+:::
+
+:::: column
+Diesen Monat stellen wir Ihnen das von Julius Welzel betreute aktuelle Studien-Team aus Kiel vor. Lisa Bayer (links im Bild) und Pauline Kaiser (rechts im Bild) sind Studentinnen der Humanmedizin, die im Rahmen des StepuP Projektes eine klinische Doktorarbeit verfassen. Die beiden sind vor allem eingebunden in die Durchführung des Laufbandtrainings und die Auswertung des häuslichen Assessments. Mittig im Bild ist die Masterstudentin der Psychologie Lara Godbersen, die als studentische Hilfskraft im Projekt hauptsächlich die EEG-Messung (siehe die Kappe auf dem Bild) sowie die EMG-Messung koordiniert. Alle Mitglieder des Teams sind motiviert, bald dieses spannende Projekt zu starten und mit den ersten Testungen zu beginnen.
+:::
+:::

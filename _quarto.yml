@@ -8,18 +8,18 @@ website:
     background: primary
     pinned: true
     left:
-      - text: Aktueller Newsletter (Januar 2024)
-        href: january24.qmd
+      - text: Aktueller Newsletter
+        href: v3.qmd
       - text: Über StepuP
         href: about.qmd
   
   sidebar: 
     sytle: docked
     contents: 
-      - text: January 2024
-        href: january24.qmd
-      - text: November 2023 
-        href: november23.qmd
+      - text: Newsletter 2
+        href: v2.qmd
+      - text: Newsletter 1 
+        href: v1.qmd
 
     right:
     - icon: envelope
