@@ -16,6 +16,8 @@ website:
   sidebar: 
     sytle: docked
     contents: 
+      - text: Newsletter 3
+        href: v3.qmd
       - text: Newsletter 2
         href: v2.qmd
       - text: Newsletter 1 

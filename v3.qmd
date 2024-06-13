@@ -21,7 +21,7 @@ In dieser Kategorie wollen wir Ihnen in jedem Newsletter Mitarbeitende vorstelle
 
 ::: columns
 :::: column
-![Team](pics/team.jpg.jpg){fig-align="center" width="70%"}
+![Team](pics/team.jpg){fig-align="center" width="70%"}
 :::
 
 :::: column
