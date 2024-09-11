@@ -19,12 +19,6 @@ Wir sind davon überzeugt, dass die Studie nicht nur wertvolle Erkenntnisse brin
 ## Mitarbeiter:in des Monats
 In dieser Kategorie wollen wir Ihnen in jedem Newsletter Mitarbeitende vorstellen, die eine zentrale Rolle im StepuP Projekt einnehmen werden. 
 
-::: columns
-:::: column
-![Team](pics/team.jpg){fig-align="center" width="70%"}
-:::
+![](pics/team.jpg){fig-align="center" height=200}
 
-:::: column
 Diesen Monat stellen wir Ihnen das von Julius Welzel betreute aktuelle Studien-Team aus Kiel vor. Lisa Bayer (links im Bild) und Pauline Kaiser (rechts im Bild) sind Studentinnen der Humanmedizin, die im Rahmen des StepuP Projektes eine klinische Doktorarbeit verfassen. Die beiden sind vor allem eingebunden in die Durchführung des Laufbandtrainings und die Auswertung des häuslichen Assessments. Mittig im Bild ist die Masterstudentin der Psychologie Lara Godbersen, die als studentische Hilfskraft im Projekt hauptsächlich die EEG-Messung (siehe die Kappe auf dem Bild) sowie die EMG-Messung koordiniert. Alle Mitglieder des Teams sind motiviert, bald dieses spannende Projekt zu starten und mit den ersten Testungen zu beginnen.
-:::
-:::

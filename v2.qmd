@@ -35,12 +35,6 @@ Teilnehmer:innen werden während des Trainings durch einen Gurt gesichert und vo
 ## Mitarbeiter:in des Monats
 In dieser Kategorie wollen wir ihnen in jedem Newsletter Mitarbeitende vorstellen die eine zentrale Rolle im StepuP Projekt einnehmen werden. 
 
-::: columns
-:::: column
-![Dr. Moira van Leeuwen](pics/Moira_vanLeeuwen.jpg){fig-align="center" width="70%"}
-:::
+![](pics/Moira_vanLeeuwen.jpg){fig-align="center" height=200}
 
-:::: column
 Diesen Monat stellen wir Ihnen Dr. Moira van Leeuwen vorstellen. Sie arbeitet als Wissenschaftlerin Universität in Amsterdam. Sie ist für die Koordination des Projekts zuständig und wird die Datenanalyse gemeinsam mit Mitarbeiter:innen aus Kiel durchführen. In Fachkreisen ist sie für ihre Expertise im Bereich Gangstabilität und Gangkontrolle bekannt.
-:::
-:::
