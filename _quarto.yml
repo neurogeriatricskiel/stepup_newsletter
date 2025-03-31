@@ -14,7 +14,7 @@ website:
         href: about.qmd
   
   sidebar: 
-    sytle: docked
+    style: docked
     contents:
       - text: Newsletter 5
         href: v5.qmd

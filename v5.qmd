@@ -14,9 +14,9 @@ Zu Beginn der Studie haben wir mit einer 128-Kanal EEG-Haube gearbeitet, die mit
 -   Schnellere Vorbereitung – Es besitzt nur die Hälfte der Elektroden.
 -   Mehr Bewegungsfreiheit – Dank Bluetooth-Technologie sind keine störenden Kabel mehr nötig.
 
-::: {layout="columns"}
-![](pics/cap_old.jpg){fig-align="center" width=45%}
-![](pics/cap_new.jpg){fig-align="center" width=45%}
+::: {layout-ncol=2 fig-align="center"}
+![](pics/cap_old.jpg){width=45%}
+![](pics/cap_new.jpg){width=45%}
 :::
 
 Auch bei der Laufbandnutzung gibt es eine Verbesserung: Wir haben neue Sicherheitsgurte (evtl auch eine Abbildung einfügen?) angeschafft, die für mehr Beinfreiheit und einen besseren Armschwung sorgen.
@@ -37,7 +37,8 @@ Ihr StepuP Studien-Team
 ## Mitarbeiter:in des Monats
 In dieser Kategorie wollen wir Ihnen in jedem Newsletter Mitarbeitende vorstellen, die eine zentrale Rolle im StepuP Projekt einnehmen werden. 
 
+### Vaishali Vinod
+
 ![](pics/lila.jpg){fig-align="center" height=200}
 
-### Vaishali Vinod
 Vaishali hat einen Master-Abschluss in Medical Life Sciences und promoviert aktuell in der Arbeitseinheit von Professor Walter Maetzler. Ihre Forschung konzentriert sich auf das Verständnis von gangbezogenen EEG-Potenzialen bei Parkinson und die Bewertung der Gültigkeit von Vorverarbeitungsalgorithmen bei der Analyse von mobilen EEG-Daten. Vaishali ist bei vielen StepuP-Messungen und Trainings dabei und springt oft auch spontan ein. Sie ist vor allem für die technischen Abläufe zuständig und ist als Teil des StepuP-Teams nicht mehr wegzudenken.
