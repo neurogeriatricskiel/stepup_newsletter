@@ -9,13 +9,15 @@ website:
     pinned: true
     left:
       - text: Aktueller Newsletter
-        href: v4.qmd
+        href: v5.qmd
       - text: Über StepuP
         href: about.qmd
   
   sidebar: 
     sytle: docked
     contents:
+      - text: Newsletter 5
+        href: v5.qmd
       - text: Newsletter 4
         href: v4.qmd
       - text: Newsletter 3
